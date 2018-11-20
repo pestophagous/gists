@@ -19,3 +19,9 @@
 [submodule "cpp-checklist"]
         path = cpp-checklist
         url = git@gist.github.com:98adcb63c290ad782d8e.git
+# to add one just like this:
+# git submodule add --name  mybuild-qmlfmt  git@gist.github.com:8efbfcde8539c0af3dcea5f46e2cf46d.git mybuild-qmlfmt
+
+[submodule "mybuild-qmlfmt"]
+	path = mybuild-qmlfmt
+	url = git@gist.github.com:8efbfcde8539c0af3dcea5f46e2cf46d.git
