@@ -19,6 +19,3 @@
 [submodule "cpp-checklist"]
         path = cpp-checklist
         url = git@gist.github.com:98adcb63c290ad782d8e.git
-[submodule "mybuild-qmlfmt"]
-        path = mybuild-qmlfmt
-        url = git@gist.github.com:98adcb63c290ad782d8e.git
