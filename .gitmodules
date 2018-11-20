@@ -1,21 +1,21 @@
 [submodule "sandbox-go"]
-	path = sandbox-go
-	url = git@gist.github.com:a40eae87daae9225078cd14654d0de21.git
+        path = sandbox-go
+        url = git@gist.github.com:a40eae87daae9225078cd14654d0de21.git
 [submodule "disatos"]
-	path = disatos
-	url = git@gist.github.com:58345ab1334c157a08bc.git
+        path = disatos
+        url = git@gist.github.com:58345ab1334c157a08bc.git
 [submodule "notes-cheatsheets"]
-	path = notes-cheatsheets
-	url = git@gist.github.com:43c6d52a113fd0c1fe38.git
+        path = notes-cheatsheets
+        url = git@gist.github.com:43c6d52a113fd0c1fe38.git
 [submodule "mailman-pager-js"]
-	path = mailman-pager-js
-	url = git@gist.github.com:600439ed54d384480af4.git
+        path = mailman-pager-js
+        url = git@gist.github.com:600439ed54d384480af4.git
 [submodule "sandbox-scala"]
-	path = sandbox-scala
-	url = git@gist.github.com:73cb17c65ad96b8a5bf95c172cbdabf3.git
+        path = sandbox-scala
+        url = git@gist.github.com:73cb17c65ad96b8a5bf95c172cbdabf3.git
 [submodule "gdb_cmd"]
-	path = gdb_cmd
-	url = git@gist.github.com:7c42802b5c7eebfde100.git
+        path = gdb_cmd
+        url = git@gist.github.com:7c42802b5c7eebfde100.git
 [submodule "cpp-checklist"]
-	path = cpp-checklist
-	url = git@gist.github.com:98adcb63c290ad782d8e.git
+        path = cpp-checklist
+        url = git@gist.github.com:98adcb63c290ad782d8e.git
