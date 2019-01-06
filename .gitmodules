@@ -25,3 +25,6 @@
 [submodule "mybuild-qmlfmt"]
 	path = mybuild-qmlfmt
 	url = git@gist.github.com:8efbfcde8539c0af3dcea5f46e2cf46d.git
+[submodule "tweaks"]
+	path = tweaks
+	url = git@gist.github.com:4324290ad58bbe7e249877ac4058924b.git
