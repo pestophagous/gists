@@ -23,11 +23,14 @@
 # git submodule add --name  mybuild-qmlfmt  git@gist.github.com:8efbfcde8539c0af3dcea5f46e2cf46d.git mybuild-qmlfmt
 
 [submodule "mybuild-qmlfmt"]
-	path = mybuild-qmlfmt
-	url = git@gist.github.com:8efbfcde8539c0af3dcea5f46e2cf46d.git
+        path = mybuild-qmlfmt
+        url = git@gist.github.com:8efbfcde8539c0af3dcea5f46e2cf46d.git
 [submodule "git_help_rebase_merge"]
-	path = git_help_rebase_merge
-	url = git@gist.github.com:3df867663a16ae1e63550fb9787e10f3.git
+        path = git_help_rebase_merge
+        url = git@gist.github.com:3df867663a16ae1e63550fb9787e10f3.git
 [submodule "hg_help_for_git_user"]
-	path = hg_help_for_git_user
-	url = git@gist.github.com:e1a6d1847779d07ba29dbe0c973262e6.git
+        path = hg_help_for_git_user
+        url = git@gist.github.com:e1a6d1847779d07ba29dbe0c973262e6.git
+[submodule "tweaks"]
+        path = tweaks
+        url = git@gist.github.com:4324290ad58bbe7e249877ac4058924b.git
